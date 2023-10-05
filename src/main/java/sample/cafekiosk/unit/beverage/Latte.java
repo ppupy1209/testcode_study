@@ -10,4 +10,6 @@ public class Latte implements Beverage {
     public int getPrice() {
         return 4500;
     }
+
+
 }
