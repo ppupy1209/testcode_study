@@ -1,3 +1,4 @@
-# Purposes
 
-Test Code 작성 연습
+## Reference
+
+### 인프런 - Practical Testing: 실용적인 테스트 가이드
